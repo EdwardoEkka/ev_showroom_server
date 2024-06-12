@@ -1,0 +1,9 @@
+{
+    "jwtSecret": "remed123",
+    "database": {
+      "url": "mongodb://localhost:27017/auth_demo"
+    },
+    "otherSettings": {
+    }
+  }
+  
